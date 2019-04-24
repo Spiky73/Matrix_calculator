@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/Matrix.h
+Rational.h
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/Rational.h
+vector
+-
+
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/Rational.h
+string
+-
+
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/main.cpp
+Matrix.h
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/Matrix.h
+iostream
+-
+exception
+-
+

@@ -1,0 +1,3 @@
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/spiky/Desktop/C++ Projects/Matrix_by_templates/cmake-build-debug/CMakeFiles/Matrix_by_templates.dir
